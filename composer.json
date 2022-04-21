@@ -6,7 +6,7 @@
     "php": ">=7.2",
     "contributte/scheduler": "^0.7.3",
     "contributte/mailing": "^0.5.1",
-    "dragonmantank/cron-expression": "^2.2.0",
+    "dragonmantank/cron-expression": "^3.3.1",
     "nette/di": "~3.0.12",
     "latte/latte": "~2.11.0",
     "nette/application": "~3.1.5",
