@@ -3,14 +3,14 @@
   "description": "Configurable library for periodic email sending",
   "license": "MIT",
   "require": {
-    "php": ">=7.1",
-    "contributte/scheduler": "^0.4.0",
-    "contributte/mailing": "^0.2.0",
+    "php": ">=7.2",
+    "contributte/scheduler": "^0.7.3",
+    "contributte/mailing": "^0.5.1",
     "dragonmantank/cron-expression": "^2.2.0",
-    "nette/di": "~2.4.14 || ~3.0.12",
-    "latte/latte": "~2.4.8 || ~2.11.0",
-    "nette/application": "~2.4.13 || ~3.1.5",
-    "nette/http": "^2.4.10 || ~3.1.5"
+    "nette/di": "~3.0.12",
+    "latte/latte": "~2.11.0",
+    "nette/application": "~3.1.5",
+    "nette/http": "~3.1.5"
   },
   "require-dev": {
     "ninjify/qa": "^0.8.0",
